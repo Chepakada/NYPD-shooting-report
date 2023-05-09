@@ -187,7 +187,7 @@ line_graph_race <- function(){
 
 print(line_graph_race())
 
-set.seed(123)
+
 
 
 

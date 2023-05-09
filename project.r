@@ -10,7 +10,7 @@ library(rpart)
 
 my_data <- read_csv("nypd_shooting.csv")
 print(colnames(my_data))
-
+``
 race_bar <- ggplot(my_data, aes(x = PERP_RACE, fill = PERP_RACE)) +
 geom_bar(stat = "count") +
 labs(title = "Shootings by NYPD to different Races",
