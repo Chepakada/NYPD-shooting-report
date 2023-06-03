@@ -21,6 +21,8 @@ I used the libraries such as Tidyverse, lubridate, ggplot2.
 
 - [Quick list of useful R packages](https://support.posit.co/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
 - [RDocumentation](https://www.rdocumentation.org/)
+- [The Project](https://github.com/Chepakada/NYPD-shooting-report/edit/main/project.html)
+
 
 # Future Work
 
